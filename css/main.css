@@ -275,6 +275,9 @@ footer a:hover {
         width: calc(70% - 1rem + 0.5rem);
         line-height: 1.9rem;
     }
+    .mh-image{
+        margin-left: 2rem
+    }
     .mh-image figure {
         width: 90%;
     }
